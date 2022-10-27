@@ -1,0 +1,132 @@
+nav{
+    display: flex;
+    margin: 16px 320px;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    justify-content: space-around;
+    height: 20.83px;
+    left: 30px;
+    top: 44px;
+
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    text-align: center;
+}
+nav li{
+    margin-right: 30px;
+}
+.header-image{
+    height: 1080px;
+    width: 100%;
+}
+.header-div1 p{
+    font-family: Poppins;
+    font-size: 70px;
+    text-align: center;
+    font-size: 70px;
+    position: absolute;
+    width: 492px;
+    height: 105px;
+    left: 157px;
+    top: 463px;
+}
+.header-div1
+.box{
+    display: flex;
+}
+.box1{
+    width: 50%;
+}
+.box1 p{
+}  
+.box2{
+    width: 50%;
+}
+.box2 p{
+    margin: 30px;
+    margin-bottom: 30px ;
+}
+.p1{
+    position: absolute;
+    width: 162px;
+    height: 35px;
+    left: 132px;
+    top: 2074px;
+}
+*{
+    margin: 0px;
+}
+.box img{
+    width: 100%;
+}
+.box p{
+    font-size: 30px;
+    color: white;
+}
+.header-p{
+    margin: 30px 1391px 30px 30px;
+}
+.S22{
+    display: flex;
+    width: 50%;
+}
+.S22 img{
+    width: 480px;
+    height: 480px;
+
+}
+.Samsung-S22{
+    display: flex;
+    width: 50%;
+    margin-left: 30px;
+}
+.SS{
+    display: flex;
+}
+.Samsung-S22 :hover{
+    background-color: blue;
+}
+.S22 :hover{
+    background-color: blue;
+}
+.Samsung-S22 img{
+    width: 480px;
+    height: 480px;
+}
+.money{
+    display: flex;
+}
+.money :hover{
+    background-color: blue;
+}
+.money img{
+    width: 480px;
+    height: 480px;
+}
+.Share img{
+    margin-left: 30px;
+    margin-bottom: 88px;
+}
+.academy{
+    display: flex;
+}
+.academy img{
+    margin-left: 30px;
+    margin-right: 35px;
+}
+.end {
+    margin-left: 205px;
+    margin-top: 8px;
+    display: flex;
+}
+.end p{
+    margin-right: 30px;
+}
+.sam-img{
+    margin-left: 40px;
+}
